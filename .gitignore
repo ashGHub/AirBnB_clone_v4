@@ -1,0 +1,5 @@
+__pycache__/
+file.json
+.venv/
+versions/
+.vscode/
